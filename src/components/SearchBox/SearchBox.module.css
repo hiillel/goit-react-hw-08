@@ -1,0 +1,15 @@
+::placeholder {
+    color: #C18BD9;
+  }
+  .searchInput {
+    width: 400px;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+    font-size: 20px;
+    border-color: #BA73D9;
+  }
+  .searchBox{
+    margin: 20px 0 ;
+  }

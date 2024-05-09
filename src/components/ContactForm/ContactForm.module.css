@@ -1,0 +1,22 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 400px;
+    padding: 10px;
+    border: 4px solid #42208C;
+    border-radius: 4px;
+}
+.form_input{
+    display:flex;
+    flex-direction: column;
+}
+.button{
+    background-color: #63F287;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
