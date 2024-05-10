@@ -1,0 +1,28 @@
+.user_info {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+  }
+  
+  .user_name {
+    margin-right: 10px;
+    font-size: 20px;
+    color: white;
+    
+  }
+  
+  .logout_btn {
+    background-color: #260116;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  .logout_btn :hover {
+    background-color: #f44336;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+  }

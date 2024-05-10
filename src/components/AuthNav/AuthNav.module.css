@@ -1,0 +1,17 @@
+.auth_links {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+  margin-left: 20px;
+}
+
+.link:hover {
+  color: #b21bf2;
+}
+.active {
+  text-decoration: underline;
+}
